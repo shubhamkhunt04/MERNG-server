@@ -19,6 +19,6 @@ mongoose
     console.log("Mongodb connected");
   });
 
-server.listen(3000, () => {
+server.listen(9090, () => {
   console.log("Server is runing on http://localhost:3000");
 });
